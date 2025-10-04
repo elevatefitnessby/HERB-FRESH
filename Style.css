@@ -64,3 +64,8 @@ footer {
   font-size: 0.9em;
   color: #555;
 }
+logo-img {
+  width: 120px;       /* Logo size adjust kar sakta hai */
+  display: block;
+  margin: 0 auto;     /* Center align */
+}
